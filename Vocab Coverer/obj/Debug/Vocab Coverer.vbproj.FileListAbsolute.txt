@@ -1,0 +1,34 @@
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\bin\Debug\Vocab Coverer.exe.config
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\bin\Debug\Vocab Coverer.exe
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\bin\Debug\Vocab Coverer.pdb
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\bin\Debug\Vocab Coverer.xml
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\Vocab Coverer.vbprojAssemblyReference.cache
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\MainWindow.g.vb
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\Application.g.vb
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\Vocab Coverer_MarkupCompile.cache
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\Vocab Coverer_MarkupCompile.lref
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\MainWindow.baml
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\Vocab Coverer.g.resources
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\Vocab_Coverer.Resources.resources
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\Vocab Coverer.vbproj.GenerateResource.cache
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\Vocab Coverer.vbproj.CoreCompileInputs.cache
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\Vocab Coverer.exe
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\Vocab Coverer.xml
+C:\Users\mgrov\AppData\Local\Temporary Projects\Vocab Coverer\obj\Debug\Vocab Coverer.pdb
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\bin\Debug\Vocab Coverer.exe.config
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\bin\Debug\Vocab Coverer.exe
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\bin\Debug\Vocab Coverer.pdb
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\bin\Debug\Vocab Coverer.xml
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\Vocab Coverer.vbprojAssemblyReference.cache
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\MainWindow.g.vb
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\Application.g.vb
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\Vocab Coverer_MarkupCompile.cache
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\Vocab Coverer_MarkupCompile.lref
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\MainWindow.baml
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\Vocab Coverer.g.resources
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\Vocab_Coverer.Resources.resources
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\Vocab Coverer.vbproj.GenerateResource.cache
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\Vocab Coverer.vbproj.CoreCompileInputs.cache
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\Vocab Coverer.exe
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\Vocab Coverer.xml
+D:\mgrov\Documents\Visual Studio 2017\Projects\Vocab Coverer\Vocab Coverer\obj\Debug\Vocab Coverer.pdb
